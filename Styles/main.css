@@ -29,20 +29,16 @@ a:hover {
 	z-index: 50;
 }
 
+.main {
+	margin-top: 50px;
+}
 .nav {
 	float: right;
 	padding: 10px 10px 0px 0px;
 	text-align: right;
 }
 
-.wrapper {
-	width: 960px;
-	margin: 0px auto;
-	background-image: url("images/main_image.jpg");
-	background-repeat: no-repeat;
-	background-position: 0px 0px;
-	text-align: left;
-}
+
 
 .logo {
 	margin-bottom: 20px;
