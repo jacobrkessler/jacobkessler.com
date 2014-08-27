@@ -68,7 +68,10 @@ h1#title {
 	color: #FFD452;
 }
 
-
+.news_items {
+	float: left;
+	text-align: left;
+}
 
 .main-story {
 	background-image: url("images/main_image.jpg");
