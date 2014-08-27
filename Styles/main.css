@@ -73,6 +73,15 @@ h1#title {
 	text-align: left;
 }
 
+.contact {
+	float: left;
+	text-align: left;
+}
+
+ul {
+	list-style-type: none;
+}
+
 .main-story {
 	background-image: url("images/main_image.jpg");
 	background-repeat: no-repeat;
