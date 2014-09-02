@@ -39,11 +39,6 @@ a:hover {
 }
 
 
-
-.logo {
-	margin-bottom: 20px;
-}
-
 h1, h2 {
 	font-family: 'Oswald', sans-serif;
 	font-weight: normal;
@@ -56,17 +51,6 @@ h1#title {
 	padding-left: 10px;
 }
 
-.date {
-	font-size: 75%;
-	color: #FFD452;
-}
-
-.intro {
-	clear: left;
-	font-size: 90%;
-	line-height: 1.4em;
-	color: #FFD452;
-}
 
 .news_items {
 	float: left;
@@ -82,31 +66,6 @@ ul {
 	list-style-type: none;
 }
 
-.main-story {
-	background-image: url("images/main_image.jpg");
-	background-repeat: no-repeat;
-	background-position: 122px 142px;
-	height: 570px;
-}
-
-.more-articles:link {
-	color: d2d9c1;
-}
-
-.more-articles {
-	border-top: 1px solid #573734;
-	padding: 10px;
-}
-
-.more-articles p {
-	border-bottom: 1px solid #d2d9c1;
-	padding: 5px 0px 15px 0px;
-	font-size: 80%;
-}
-
-.more-articles p:last-child {
-	border-bottom: none;
-}
 
 .footer {
 	clear: both;
